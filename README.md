@@ -22,10 +22,6 @@ visually clear chart that maps an individual's health status in real-time.
 * **Library:** Matplotlib
 * **Environment:** Jupyter Notebook
 
-### Sample Visualization Output
-*(You can upload your plot image to this repository and replace 'image_bd68d0.png' with your actual filename)*
-![BMI Report Screenshot](image_bd68d0.png)
-
 ---
 
 ## 2. Automatic File Sorter in File Explorer (OS & Shutil)
