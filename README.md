@@ -33,5 +33,5 @@ The goal was to eliminate manual intervention in system directory maintenance by
 
 ### Tech Stack
 * **Language:** Python
-* **Core Libraries:** `os`, `shutil`
+* **Core Libraries:** os, shutil
 * **Environment:** Jupyter Notebook
